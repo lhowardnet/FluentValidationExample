@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Profe\\source\\repos\\FluentValidationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE5645E-70B2-4F91-AF3C-D334F4E2A332}|FluentValidationExample\\FluentValidationExample.csproj|c:\\users\\profe\\source\\repos\\fluentvalidationexample\\fluentvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE5645E-70B2-4F91-AF3C-D334F4E2A332}|FluentValidationExample\\FluentValidationExample.csproj|solutionrelative:fluentvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Profe\\source\\repos\\FluentValidationExample\\FluentValidationExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FluentValidationExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Profe\\source\\repos\\FluentValidationExample\\FluentValidationExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FluentValidationExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:28:53.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

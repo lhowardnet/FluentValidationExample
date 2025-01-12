@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FluentValidationExample.Controllers.HomeController",
+    "Method": "Hello",
+    "RelativePath": "Hello",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "helloModel",
+        "Type": "FluentValidationExample.Controllers.HelloModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

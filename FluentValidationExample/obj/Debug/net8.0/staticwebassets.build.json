@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tUvluZVTXIrGjGHP6lcmnwYP3pge0syRmCoEzITMjqg=",
+  "Source": "FluentValidationExample",
+  "BasePath": "_content/FluentValidationExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
